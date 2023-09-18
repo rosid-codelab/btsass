@@ -1,0 +1,139 @@
+.btn-master, .btn-secondary, .btn-primary {
+  padding: 15px 26px 15px 26px;
+  border-radius: 10px;
+  font-weight: 600;
+  border: 0;
+}
+
+.btn-primary {
+  color: #fff;
+  background: #563AD6;
+}
+
+.btn-secondary {
+  color: #777790;
+  background: #EAEAF4;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+.pricing {
+  background: #F9F9FB;
+  padding: 70px 0 70px 0;
+  margin-top: 70px;
+}
+.pricing .master-card, .pricing .most-card, .pricing .basic-card {
+  padding: 30px;
+  border-radius: 22px;
+}
+.pricing .master-card .btn, .pricing .most-card .btn, .pricing .basic-card .btn {
+  width: 100%;
+  margin-top: 20px;
+}
+.pricing .master-card .item-benefit, .pricing .most-card .item-benefit, .pricing .basic-card .item-benefit {
+  margin-bottom: 20px;
+}
+.pricing .master-card .item-benefit img, .pricing .most-card .item-benefit img, .pricing .basic-card .item-benefit img {
+  float: left;
+  margin-right: 8px;
+}
+.pricing .master-card .item-benefit p, .pricing .most-card .item-benefit p, .pricing .basic-card .item-benefit p {
+  font-size: 16px;
+  font-weight: 500;
+}
+.pricing .master-card .name, .pricing .most-card .name, .pricing .basic-card .name {
+  font-size: 18px;
+  font-weight: 500;
+}
+.pricing .master-card .price, .pricing .most-card .price, .pricing .basic-card .price {
+  font-size: 36px;
+  font-weight: 600;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.pricing .master-card .support, .pricing .most-card .support, .pricing .basic-card .support {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+.pricing .basic-card {
+  background: #fff;
+}
+.pricing .basic-card .name {
+  color: #02044A;
+}
+.pricing .basic-card .price {
+  color: #02044A;
+}
+.pricing .basic-card .support {
+  color: #9B9CB7;
+}
+.pricing .basic-card .item-benefit p {
+  color: #02044A;
+}
+.pricing .most-card {
+  background: #563AD6;
+}
+.pricing .most-card .btn-primary {
+  background: #3ABAD6 !important;
+}
+.pricing .most-card .name {
+  color: #fff;
+}
+.pricing .most-card .price {
+  color: #fff;
+}
+.pricing .most-card .support {
+  color: #B19FFF;
+}
+.pricing .most-card .item-benefit p {
+  color: #fff;
+}
+
+.header {
+  font-weight: 600;
+  color: #02044A;
+  font-size: 46px;
+  line-height: 60px;
+  margin-top: 100px;
+}
+
+.description {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 18px;
+  line-height: 30px;
+  color: #9B9CB7;
+  font-weight: 400;
+}
+
+.sales {
+  padding-top: 100px;
+}
+.sales .brand {
+  margin-top: 70px;
+  text-align: center;
+}
+.sales .brand .brand-logos {
+  width: 724px;
+}
+.sales .copywriting {
+  padding-left: 140px;
+}
+
+.navbar-tp {
+  padding-top: 30px;
+}
+.navbar-tp .navbar-nav li {
+  padding-left: 50px;
+}
+.navbar-tp .navbar-nav .active {
+  color: #563AD6 !important;
+  font-weight: 500 !important;
+}
+.navbar-tp .navbar-nav .nav-link {
+  color: #02044A;
+  font-weight: 400;
+}/*# sourceMappingURL=main.css.map */
